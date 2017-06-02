@@ -1,0 +1,36 @@
+.navbar {
+	margin-bottom: 0px;
+	border-radius: 0px;
+}
+
+body {
+	font-family: 'Open Sans' , Sans-serif;
+}
+
+.bg-profile {
+	background-color: #c7a693;
+}
+
+.cover-profile {
+	color: #856046;
+}
+
+.cover-profile img.cover-image {
+	z-index: 0;
+	width: 100%;
+	margin-bottom: 10px;
+} 
+
+@media (max-width: 768px) {
+	
+}
+
+.cover-profile-image {
+	margin: -150px 10px 0px 50px;
+	z-index: 1;
+	width: 20%;
+}
+
+@media (max-width: 768px) {
+
+}

@@ -8,12 +8,12 @@ body {
 }
 
 .bg-Profile {
-	background-color: #c7a693;
+	background-color: #00ff00;
 
 }
 
 .cover-profile {
-	color: #856046;
+	color: #ff6347;
 }
 
 .cover-profile img.cover-image{
@@ -32,11 +32,11 @@ body {
 }
 
 .nav-pills>li>a {
-	color: #fff;
+	color: #008000;
 }
 
 .nav-pills>li>a:hover {
-	color: #856045;
+	color: #00ff00;
 }
 
 .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover{
